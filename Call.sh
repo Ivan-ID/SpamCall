@@ -1,3 +1,36 @@
-z="
-";ez='a';fBz='╗║╚╗';DCz='  Az';bz='anga';GCz='nel';hz='Sub.';wBz='an F';SBz=' $m║';fCz='BANY';tBz=' Cod';RCz='h no';Qz='[36;';dCz=' BAN';RBz='|   ';Cz='30;1';vBz='y Iv';MCz=' /  ';bBz='╔╝║╠';UCz='8xxx';yz=' Sto';Gz='h="\';hBz='|\  ';sz='  $m';PCz='$a c';jz='clea';mz=' "';ECz='zura';TBz='══╣║';Uz='m1="';HBz='━┓';QCz='onto';LBz='══╗╔';Fz='31;1';Sz='p="\';Lz='34;1';OCz='$h (';TCz=': 62';ZBz='$p ╠';nz='$c  ';pz='/\';VCz='xxxx';MBz='═╗╔═';XBz='╔╝║╔';QBz=' |  ';JCz='\ $b';Xz='[39;';lBz='╝─╚╝';az='cd j';Pz='\033';eBz='╣║║╚';Ez='m="\';oCz='a.py';Zz='[40;';DBz='   \';ICz='|___';UBz='╬║║╔';Kz='b="\';bCz='  JA';yBz='nsya';kBz='══╝╚';FBz=' ┏━━';ACz='h';jCz='AM';HCz=' /__';mBz='╚╝╚╩';BCz='|  \';iBz='   $';qBz='╝╚═╝';pBz='╚╝╚═';dBz='╚╗║╠';NBz='╦═╗╔';hCz='ALO ';Iz='k="\';jBz='p  ╚';Tz='37;1';Oz='bm="';Yz='hi="';kz='r';gBz='/|  ';aCz='&_\ ';ZCz='____';YCz='/_&_';Hz='32;1';CBz='  / ';cz='n-di';YBz='─║║─';lz='echo';vz='rl +';iz='py';Wz='p7="';oBz='═╝╚╝';nCz='"';xz='ntuk';VBz='╗║║║';tz='  *$';PBz='─╔╗─';WCz='x $h';kCz=' (=)';Rz='1m"';Mz='c="\';LCz='━━┛';EBz='  $b';cCz='NGAN';gCz='AK K';IBz='  [=';lCz='   (';SCz='mor ';rz='  \ ';gz='on2 ';xBz='irma';fz='pyth';NCz=' \  ';BBz='*';uz='a ct';mCz='=)';iCz='NYEP';XCz=')';uBz='ed B';KCz=' ┗━━';KBz='$m ╔';JBz='][=]';ABz='p$m ';Nz='35;1';Az='a="\';WBz='║║║║';Jz='33;1';aBz='══║║';Dz='m"';OBz='═╗╔╗';rBz='| \ ';cBz='╣║║║';qz='   /';GBz='━━━━';eCz='YAK ';wz=' z U';Bz='033[';FCz=' Cha';dz='-buk';oz='    ';CCz='$h  ';nBz='═╩╝╚';sBz='  $h';Vz='[38;';
-eval "$Az$Bz$Cz$Dz$z$Ez$Bz$Fz$Dz$z$Gz$Bz$Hz$Dz$z$Iz$Bz$Jz$Dz$z$Kz$Bz$Lz$Dz$z$Mz$Bz$Nz$Dz$z$Oz$Pz$Qz$Rz$z$Sz$Bz$Tz$Dz$z$Uz$Pz$Vz$Rz$z$Wz$Pz$Xz$Rz$z$Yz$Pz$Zz$Rz$z$az$bz$cz$dz$ez$z$fz$gz$hz$iz$z$jz$kz$z$lz$mz$z$nz$oz$oz$pz$z$nz$oz$qz$rz$oz$oz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$z$nz$oz$CBz$DBz$oz$EBz$FBz$GBz$GBz$GBz$GBz$GBz$GBz$GBz$HBz$z$nz$oz$IBz$JBz$oz$oz$KBz$LBz$MBz$MBz$NBz$MBz$OBz$PBz$z$nz$oz$QBz$oz$RBz$oz$SBz$TBz$UBz$VBz$WBz$XBz$VBz$YBz$z$nz$oz$QBz$oz$RBz$oz$ZBz$aBz$bBz$cBz$WBz$dBz$eBz$fBz$z$nz$oz$gBz$oz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$z$nz$qz$QBz$oz$rBz$oz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$z$nz$CBz$QBz$oz$BCz$oz$oz$CCz$DCz$ECz$FCz$GCz$z$nz$HCz$QBz$oz$ICz$JCz$KCz$GBz$GBz$GBz$GBz$GBz$GBz$GBz$LCz$z$nz$oz$MCz$oz$NCz$oz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$z$nz$oz$YCz$ZCz$aCz$sz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$z$nz$oz$kCz$lCz$mCz$z$nCz$z$az$bz$cz$dz$ez$z$fz$gz$oCz"
+a="\033[30;1m"
+m="\033[31;1m"
+h="\033[32;1m"
+k="\033[33;1m"
+b="\033[34;1m"
+c="\033[35;1m"
+bm="\033[36;1m"
+p="\033[37;1m"
+m1="\033[38;1m"
+p7="\033[39;1m"
+hi="\033[40;1m"
+
+
+
+cd jangan-di-buka
+python2 Sub.py
+
+clear
+echo "
+$c          /\      
+$c         /  \           $m  *$a ctrl + z Untuk Stop$m *
+$c        /    \      $b ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+$c        [=][=]        $m ╔══╗╔═╗╔══╗╔═╦═╗╔═╗╔══╗╔╗─╔╗─
+$c       |      |        $m║══╣║╬║║╔╗║║║║║║║╔╝║╔╗║║║─║║─
+$c       |      |       $p ╠══║║╔╝║╠╣║║║║║║║╚╗║╠╣║║╚╗║╚╗
+$c      /|      |\     $p  ╚══╝╚╝─╚╝╚╝╚╩═╩╝╚═╝╚╝╚╝╚═╝╚═╝
+$c     / |      | \       $h Coded By Ivan Firmansyah
+$c    /  |      |  \        $h    Azzura Chanel
+$c   /__ |      |___\ $b ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+$c       /       \      $h ($a contoh nomor : 628xxxxxxxx $h)
+$c      /_&_____&_\   $m  JANGAN BANYAK BANYAK KALO NYEPAM
+$c       (=)   (=)
+
+"
+cd jangan-di-buka
+python2 a.py
